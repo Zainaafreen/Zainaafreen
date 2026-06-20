@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Zaina%20Afreen%20A%20P&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=62&descAlign=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Zaina%20Afreen%20A%20P&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Integration&descAlignY=62&descAlign=50&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+products+from+zero+to+deployed.;MERN+%7C+Next.js+%7C+TypeScript+%7C+Python;TensorFlow+%7C+Groq+API+%7C+LLM+Integration;3+Internships+%E2%80%A2+5+Shipped+Projects+%E2%80%A2+Full+SDLC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;5+Projects+Shipped+End-to-End+as+Sole+Developer;Python+%7C+Django+%7C+Flask+%7C+RESTful+APIs;AI+Integration+%7C+LLM+APIs+%7C+TensorFlow)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,11 +29,13 @@
 
 ## 〈 About 〉
 
-Full-Stack Developer and UI/UX Designer with **3 internships** and **5 independently built and deployed projects** across the complete product lifecycle — from architecture and design to production deployment. I build with the MERN stack, TypeScript, Next.js, and Python/Django/Flask, and integrate LLM APIs (Groq, LLaMA 3.3 70B) to ship AI-powered products, not just experiments.
+Full-Stack Developer and UI/UX Designer with **3 internships** and **5 independently built and deployed projects** — each scoped, designed, coded, and shipped solo, across the complete product lifecycle. I build full-stack products with the MERN stack, TypeScript, Next.js, and Python/Django/Flask, with RESTful API design and containerised deployments using Docker.
 
-My engineering philosophy: own the whole vertical. I scope, design, implement, and deploy. Every project in this profile was built solo, end-to-end, with no starter templates and no inherited codebases.
+Where it adds real value to a product, I integrate AI: LLM APIs (Groq, LLaMA 3.3 70B), TensorFlow/Keras for CV, and PDF parsing pipelines. The engineering foundation is always full-stack first.
 
-**Open To:** Full-Stack Developer · Frontend Engineer · Backend Engineer · AI/ML Engineer · Developer Advocate roles at product-focused engineering teams.
+My philosophy: own the whole vertical. Every project in this profile was built solo — no starter templates, no inherited codebases, from architecture to production.
+
+**Open To:** Full-Stack Developer · Frontend Engineer · Backend Engineer · UI/UX Engineer · roles at product-focused engineering teams.
 
 ---
 
@@ -61,17 +63,19 @@ My engineering philosophy: own the whole vertical. I scope, design, implement, a
 
 ---
 
-## 〈 AI / ML Expertise 〉
+## 〈 Full-Stack Expertise 〉
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Layer | Stack | Proficiency |
 |---|---|---|
-| LLM API Integration | ████████░░ Advanced | Groq API · LLaMA 3.3 70B · Prompt Engineering · Structured Output |
-| Computer Vision | ██████░░░░ Intermediate | MobileNet · TensorFlow · Keras · Fine-tuning · Image Classification |
-| ML Model Deployment | ██████░░░░ Intermediate | Django REST · In-memory inference · Railway deployment |
-| PDF / Document AI | ████████░░ Advanced | pypdf · ATS parsing · Resume analysis pipelines |
-| Automation & Scripting | ████████░░ Advanced | Google Apps Script · Brevo SMTP · Scheduled triggers |
+| **Frontend** | React.js · Next.js · TypeScript · Tailwind CSS · Responsive Design | ████████░░ Advanced |
+| **Backend** | Node.js · Express.js · Django · Flask · RESTful APIs · JWT Auth | ████████░░ Advanced |
+| **Databases** | PostgreSQL · MongoDB · Neon · PLpgSQL stored procedures | ███████░░░ Proficient |
+| **DevOps** | Docker Compose · Railway · Vercel · Netlify · Render | ██████░░░░ Intermediate |
+| **UI/UX Design** | Figma · Wireframes · High-fidelity prototypes · WCAG 2.1 AA | ████████░░ Advanced |
+| **Automation** | Google Apps Script · Brevo SMTP · Scheduled email triggers | ███████░░░ Proficient |
+| **AI Integration** | Groq API · TensorFlow · Keras · MobileNet · pypdf · LLM prompting | ██████░░░░ Intermediate |
 
 </div>
 
@@ -80,63 +84,23 @@ My engineering philosophy: own the whole vertical. I scope, design, implement, a
 ## 〈 Featured Projects 〉
 
 <details>
-<summary><b>🤖 AI Resume Reviewer — React · Flask · Groq API · pypdf · Python</b></summary>
-
-<br/>
-
-A full-stack AI-powered resume analysis platform. Users upload a PDF resume and receive structured feedback on ATS compatibility, skill gap analysis, and targeted improvement recommendations — all generated via the Groq API running LLaMA 3.3 70B.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React · Flask · Groq API (LLaMA 3.3 70B) · pypdf · Python |
-| **Architecture** | Stateless REST API · client-side upload · server-side PDF parsing |
-| **AI Integration** | Structured prompts → Groq API → parsed JSON feedback |
-| **Ownership** | Sole developer — scoped, designed, implemented, and deployed |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
-
-The Flask backend parses uploaded PDF content using pypdf, constructs structured prompt templates, and routes requests to the Groq API — returning actionable, section-level feedback to the React frontend. Demonstrated independent ownership across the full product lifecycle.
-
-<br/>
-</details>
-
-<details>
 <summary><b>📋 Job Application Tracker — TypeScript · React · Node.js · MongoDB · Brevo SMTP</b></summary>
 
 <br/>
 
-A Kanban-style job application management platform with automated deadline tracking and email reminders. Built and then fully migrated to TypeScript — 2,100+ lines refactored for strict type safety across all API contracts and React components.
+A Kanban-style job application management platform with automated deadline tracking and email reminders. Migrated an entire JavaScript codebase to TypeScript — 2,100+ lines refactored with strict type safety across all API contracts and React components.
 
 | Attribute | Details |
 |---|---|
 | **Stack** | TypeScript · React · Node.js · Express.js · MongoDB · Brevo SMTP |
-| **Scale** | 2,100+ lines of typed application code |
-| **Workflow** | Applied → Interview → Offer → Rejected pipeline with notes & deadlines |
-| **Automation** | Brevo SMTP · configurable alert windows · deadline-triggered emails |
-| **Impact** | Full codebase TypeScript migration; reduced runtime bugs, improved DX |
+| **Scale** | 2,100+ lines of fully typed application code |
+| **Workflow** | Applied → Interview → Offer → Rejected Kanban pipeline with notes & deadlines |
+| **Backend** | RESTful API · JWT authentication · MongoDB with Mongoose |
+| **Automation** | Brevo SMTP · configurable per-application alert windows · deadline-triggered emails |
+| **Impact** | Full JS → TypeScript migration; eliminated runtime type errors, improved IDE coverage |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/jobtracker) |
 
-Engineered the Kanban board with typed state management, integrated Brevo SMTP with configurable per-application alert windows, and completed a full JavaScript-to-TypeScript migration that eliminated an entire class of runtime errors.
-
-<br/>
-</details>
-
-<details>
-<summary><b>🖼️ Image Forgery Detection — Python · Django · TensorFlow · Keras · MobileNet</b></summary>
-
-<br/>
-
-An AI-powered web application that detects digitally altered or photoshopped images using a fine-tuned MobileNet deep learning model. Built with a privacy-first architecture — uploaded images are processed entirely in-memory and never written to storage.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · Django · TensorFlow · Keras · MobileNet · Railway |
-| **Model** | Fine-tuned MobileNet · image forgery classification |
-| **Architecture** | Privacy-first · in-memory processing · zero persistent image storage |
-| **Backend** | Full Django REST: auth · sessions · upload pipeline · model inference · results dashboard |
-| **Deployment** | Live on Railway |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
-
-Engineered the complete Django backend — user authentication, session management, image upload pipeline, model inference, and results dashboard. The engineering strength of this project is the full-stack architecture and the zero-persistence privacy model.
+Engineered the Kanban board with fully typed React state management and typed API contracts end-to-end. Integrated Brevo SMTP with configurable alert windows per application. The TypeScript migration was a complete refactor — not incremental — eliminating an entire class of runtime bugs.
 
 <br/>
 </details>
@@ -146,18 +110,18 @@ Engineered the complete Django backend — user authentication, session manageme
 
 <br/>
 
-A comprehensive full-stack productivity and wellness dashboard covering task management, expense tracking, health monitoring, push-notification reminders, and live weather insights. Fully containerised with Docker Compose.
+A comprehensive full-stack productivity and wellness dashboard covering task management, expense tracking, health monitoring, push-notification reminders, and live weather insights. Fully containerised with Docker Compose for one-command local setup and consistent dev-to-production parity.
 
 | Attribute | Details |
 |---|---|
 | **Stack** | JavaScript · React · Node.js · Express.js · PostgreSQL · PLpgSQL · Docker |
-| **Scale** | 10+ reusable React components · 15+ RESTful API endpoints |
-| **Database** | PostgreSQL with custom PLpgSQL stored procedures |
-| **DevOps** | Docker Compose · one-command local setup · dev-to-production parity |
-| **Features** | Tasks · expenses · health tracking · push notifications · weather API |
+| **Frontend** | 10+ reusable React components · fully mobile-responsive |
+| **Backend** | 15+ RESTful API endpoints · PostgreSQL with custom PLpgSQL stored procedures |
+| **DevOps** | Docker Compose · containerised full stack · consistent dev-to-production environment |
+| **Features** | Tasks · expenses · health tracking · push notifications · live weather API |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
 
-Built 10+ fully mobile-responsive React components with full keyboard accessibility. Designed and implemented 15+ RESTful API endpoints backed by PostgreSQL with custom stored procedures. Containerised the full stack with Docker Compose for consistent dev-to-production parity.
+Designed and built 10+ fully responsive React components with keyboard accessibility. Architected 15+ REST endpoints backed by PostgreSQL with custom stored procedures. Containerised the entire stack with Docker Compose — zero manual environment setup required.
 
 <br/>
 </details>
@@ -167,18 +131,60 @@ Built 10+ fully mobile-responsive React components with full keyboard accessibil
 
 <br/>
 
-A markdown-powered blog platform with static site generation, server-side rendering, and responsive Tailwind layouts. Self-taught Next.js App Router for this project and shipped in under 2 days.
+A markdown-powered blog platform with static site generation, server-side rendering, and responsive Tailwind layouts. Self-taught Next.js App Router for this project and shipped in under 48 hours.
 
 | Attribute | Details |
 |---|---|
 | **Stack** | Next.js · TypeScript · Tailwind CSS · Markdown · SSG/SSR |
-| **Rendering** | Next.js App Router · SSG for posts · SSR for dynamic routes |
+| **Rendering** | Next.js App Router · SSG for static posts · SSR for dynamic routes |
 | **Performance** | 96 Accessibility · 96 Best Practices · 91 SEO (Lighthouse) |
-| **Learning** | Self-taught Next.js App Router; shipped in < 2 days |
+| **Learning** | Self-taught Next.js App Router — shipped in < 2 days |
 | **Live** | [![Netlify](https://img.shields.io/badge/Live-zainasblog.netlify.app-6D28D9?style=flat-square&logo=netlify)](https://zainasblog.netlify.app) |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
 
-Demonstrates fast independent learning velocity — went from zero Next.js experience to a deployed, production-quality SSG/SSR blog with TypeScript and Tailwind in under 48 hours.
+Demonstrates fast independent learning — from zero Next.js knowledge to a deployed, production-quality SSG/SSR blog with TypeScript and Tailwind in under 48 hours.
+
+<br/>
+</details>
+
+<details>
+<summary><b>🤖 AI Resume Reviewer — React · Flask · Groq API · pypdf · Python</b></summary>
+
+<br/>
+
+A full-stack AI-powered resume analysis platform. Users upload a PDF resume and receive structured feedback on ATS compatibility, skill gaps, and improvements — generated via the Groq API (LLaMA 3.3 70B). Sole developer across the entire stack.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React · Flask · Groq API (LLaMA 3.3 70B) · pypdf · Python |
+| **Frontend** | React SPA · file upload · structured feedback rendering |
+| **Backend** | Flask REST API · PDF parsing with pypdf · structured LLM prompts |
+| **AI Layer** | Groq API · LLaMA 3.3 70B · ATS score · skill gap · improvement suggestions |
+| **Ownership** | Sole developer — scoped, designed, implemented, and deployed end-to-end |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
+
+Built the Flask backend to parse PDF content, construct structured prompts, and route requests to the Groq API — returning section-level feedback to the React frontend. Full product lifecycle ownership from first commit to deployment.
+
+<br/>
+</details>
+
+<details>
+<summary><b>🖼️ Image Forgery Detection — Python · Django · TensorFlow · Keras · MobileNet</b></summary>
+
+<br/>
+
+An AI-powered web application that detects digitally altered images using a fine-tuned MobileNet model. Built with a privacy-first architecture — images are processed entirely in-memory, never persisted to storage.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · Django · TensorFlow · Keras · MobileNet · Railway |
+| **Backend** | Full Django REST: auth · sessions · upload pipeline · inference · results dashboard |
+| **Architecture** | Privacy-first · in-memory image processing · zero persistent storage |
+| **ML Layer** | Fine-tuned MobileNet · binary forgery classification |
+| **Deployment** | Live on Railway |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
+
+The engineering strength here is the full Django backend — auth, sessions, upload pipeline, model inference, and results dashboard — built end-to-end with a privacy-first in-memory processing model.
 
 <br/>
 </details>
@@ -236,11 +242,11 @@ Demonstrates fast independent learning velocity — went from zero Next.js exper
 | 🏗️ 5 Shipped Projects | Built and deployed 5 full-stack projects end-to-end as sole developer |
 | 🎓 CGPA 8.3 / 10 | B.E. Computer Science & Engineering, C. Abdul Hakeem College |
 | ⚡ 48-Hour Delivery | Self-taught Next.js App Router and shipped production blog in < 2 days |
-| 🔒 Privacy Engineering | Implemented zero-persistence in-memory image processing on deployed ML app |
-| 📦 2,100+ Lines Migrated | Full JS → TypeScript migration on Job Tracker; improved type safety across full stack |
-| 👩‍🏫 20+ Students Mentored | Delivered technical workshops on web development and Git/GitHub to undergrads |
-| ✅ 100% Sprint Delivery | Maintained on-time delivery across all 4 sprints at HJAUTECH internship |
-| 🌐 Multilingual | English · Tamil · Hindi · Urdu |
+| 📦 2,100+ Lines Migrated | Full JS → TypeScript migration on Job Tracker across entire stack |
+| 🐳 Docker Containerised | Dockerised full-stack app (LIFE Hub) with Docker Compose for dev-to-prod parity |
+| 🔒 Privacy Engineering | Zero-persistence in-memory image processing on deployed ML app |
+| 👩‍🏫 20+ Students Mentored | Delivered technical workshops on web dev and Git/GitHub to undergrads |
+| ✅ 100% Sprint Delivery | On-time delivery across all 4 sprints at HJAUTECH internship |
 
 </div>
 
@@ -333,25 +339,25 @@ Demonstrates fast independent learning velocity — went from zero Next.js exper
 
 ```yaml
 learning:
-  - System Design for distributed full-stack applications
-  - Advanced LLM prompt engineering and RAG pipelines
+  - System Design for scalable full-stack applications
+  - Advanced TypeScript patterns and monorepo tooling
   - AWS Cloud Practitioner foundations
 
 building:
-  - AI-integrated products with real user value
-  - TypeScript-first full-stack architectures
-  - Open source tooling for developers
+  - Full-stack products with clean REST API architecture
+  - TypeScript-first MERN applications
+  - AI-integrated features where they add genuine product value
 
 exploring:
-  - Vector databases and semantic search
   - Edge deployment and serverless patterns
   - Accessibility-first design systems
+  - Next.js App Router advanced patterns
 
 open_to:
-  - Full-Stack Developer roles (MERN / Next.js)
-  - AI / ML Engineer positions
+  - Full-Stack Developer roles (MERN / Next.js / TypeScript)
   - Frontend Engineer roles
-  - Product-focused engineering teams
+  - Backend Engineer roles
+  - UI/UX + Engineering hybrid roles
   - Remote or hybrid opportunities
 ```
 
@@ -372,7 +378,7 @@ open_to:
 
 <div align="center">
 
-*"The best engineers don't just write code — they take full ownership of the outcome."*
+*"Scope it. Design it. Build it. Ship it. Own the whole thing."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer&fontColor=ffffff" />
 
