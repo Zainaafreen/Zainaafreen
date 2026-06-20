@@ -9,6 +9,7 @@
 ![B.E. CSE](https://img.shields.io/badge/B.E._Computer_Science_%26_Engineering-CGPA_8.3%2F10-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
 ![Graduating](https://img.shields.io/badge/Graduating-2026-7C3AED?style=flat-square)
 ![Location](https://img.shields.io/badge/Vellore%2C_Tamil_Nadu-India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Open_To_Work-Full--Stack_Developer-16a34a?style=flat-square)
 
 <br/>
 
@@ -16,12 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainaafreen)
 [![Gmail](https://img.shields.io/badge/Gmail-zaina.cahcet%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaina.cahcet@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zainaafreen-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zainaafreen)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zainaafreen&label=Profile+Views&color=6D28D9&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Zainaafreen?label=Followers&style=flat-square&color=7C3AED)
-![GitHub stars](https://img.shields.io/github/stars/Zainaafreen?label=Stars&style=flat-square&color=4F46E5)
 
 </div>
 
@@ -119,7 +114,7 @@ A comprehensive full-stack productivity and wellness dashboard covering task man
 | **Backend** | 15+ RESTful API endpoints · PostgreSQL with custom PLpgSQL stored procedures |
 | **DevOps** | Docker Compose · containerised full stack · consistent dev-to-production environment |
 | **Features** | Tasks · expenses · health tracking · push notifications · live weather API |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/LifeHub) |
 
 Designed and built 10+ fully responsive React components with keyboard accessibility. Architected 15+ REST endpoints backed by PostgreSQL with custom stored procedures. Containerised the entire stack with Docker Compose — zero manual environment setup required.
 
@@ -161,7 +156,7 @@ A full-stack AI-powered resume analysis platform. Users upload a PDF resume and 
 | **Backend** | Flask REST API · PDF parsing with pypdf · structured LLM prompts |
 | **AI Layer** | Groq API · LLaMA 3.3 70B · ATS score · skill gap · improvement suggestions |
 | **Ownership** | Sole developer — scoped, designed, implemented, and deployed end-to-end |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/ai-resume-reviewer) |
 
 Built the Flask backend to parse PDF content, construct structured prompts, and route requests to the Groq API — returning section-level feedback to the React frontend. Full product lifecycle ownership from first commit to deployment.
 
@@ -182,7 +177,7 @@ An AI-powered web application that detects digitally altered images using a fine
 | **Architecture** | Privacy-first · in-memory image processing · zero persistent storage |
 | **ML Layer** | Fine-tuned MobileNet · binary forgery classification |
 | **Deployment** | Live on Railway |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/image_forgery) |
 
 The engineering strength here is the full Django backend — auth, sessions, upload pipeline, model inference, and results dashboard — built end-to-end with a privacy-first in-memory processing model.
 
@@ -279,57 +274,6 @@ The engineering strength here is the full Django backend — auth, sessions, upl
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Zainaafreen)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Zainaafreen)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Zainaafreen)
-
-</div>
-
----
-
-## 〈 GitHub Analytics 〉
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainaafreen&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainaafreen&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zainaafreen&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=7C3AED&currStreakLabel=C4B5FD)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 〈 GitHub Trophies 〉
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zainaafreen&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 〈 Contribution Activity 〉
-
-<div align="center">
-
-[![Zaina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zainaafreen&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 〈 Contribution Snake 〉
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zainaafreen/Zainaafreen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zainaafreen/Zainaafreen/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Zainaafreen/Zainaafreen/output/github-snake.svg" />
-</picture>
 
 </div>
 
