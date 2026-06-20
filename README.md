@@ -42,17 +42,56 @@ My philosophy: own the whole vertical. Every project in this profile was built s
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,c,cpp&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Frontend & Design**
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,jquery&theme=dark)](https://skillicons.dev)
+
+![Canva](https://img.shields.io/badge/Canva-6D28D9?style=flat-square&logo=canva&logoColor=white)
 
 **Backend & Databases**
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,postgresql,mongodb&theme=dark)](https://skillicons.dev)
 
-**Cloud, DevOps & Tooling**
+![SQL](https://img.shields.io/badge/SQL-6D28D9?style=flat-square&logo=database&logoColor=white)
+![Neon PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman&theme=dark)](https://skillicons.dev)
+**AI / ML**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+
+![Keras](https://img.shields.io/badge/Keras-6D28D9?style=flat-square&logo=keras&logoColor=white)
+![MobileNet](https://img.shields.io/badge/MobileNet-7C3AED?style=flat-square&logo=google&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API_(LLM)-4F46E5?style=flat-square&logoColor=white)
+
+**Cloud, DevOps & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,vscode,postman,render&theme=dark)](https://skillicons.dev)
+
+![Railway](https://img.shields.io/badge/Railway-6D28D9?style=flat-square&logo=railway&logoColor=white)
+
+**Automation & Productivity**
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-6D28D9?style=flat-square&logo=googlesheets&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-7C3AED?style=flat-square&logo=googledocs&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google_Apps_Script-4F46E5?style=flat-square&logo=google&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-5B21B6?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Brevo SMTP](https://img.shields.io/badge/Brevo_SMTP-6D28D9?style=flat-square&logoColor=white)
+
+**Collaboration Tools**
+
+![Slack](https://img.shields.io/badge/Slack-6D28D9?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-7C3AED?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-4F46E5?style=flat-square&logo=trello&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-5B21B6?style=flat-square&logo=zoom&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google_Meet-6D28D9?style=flat-square&logo=googlemeet&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-7C3AED?style=flat-square&logo=microsoftteams&logoColor=white)
+
+**AI Coding Tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-6D28D9?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-7C3AED?style=flat-square&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-4F46E5?style=flat-square&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-5B21B6?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
