@@ -13,8 +13,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://zainaafreen.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainaafreen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6D28D9?style=for-the-badge&logo=netlify&logoColor=white)](https://zaina-afreen-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaina-afreen-76892a265/)
 [![Gmail](https://img.shields.io/badge/Gmail-zaina.cahcet%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaina.cahcet@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zainaafreen-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zainaafreen)
 
@@ -93,7 +93,7 @@ A Kanban-style job application management platform with automated deadline track
 | **Backend** | RESTful API · JWT authentication · MongoDB with Mongoose |
 | **Automation** | Brevo SMTP · configurable per-application alert windows · deadline-triggered emails |
 | **Impact** | Full JS → TypeScript migration; eliminated runtime type errors, improved IDE coverage |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/jobtracker) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/jobtracker) [![Demo](https://img.shields.io/badge/Demo-Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://jobtracker-zaina.vercel.app/) |
 
 Engineered the Kanban board with fully typed React state management and typed API contracts end-to-end. Integrated Brevo SMTP with configurable alert windows per application. The TypeScript migration was a complete refactor — not incremental — eliminating an entire class of runtime bugs.
 
@@ -114,7 +114,7 @@ A comprehensive full-stack productivity and wellness dashboard covering task man
 | **Backend** | 15+ RESTful API endpoints · PostgreSQL with custom PLpgSQL stored procedures |
 | **DevOps** | Docker Compose · containerised full stack · consistent dev-to-production environment |
 | **Features** | Tasks · expenses · health tracking · push notifications · live weather API |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/LifeHub) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/LifeHub) [![Demo](https://img.shields.io/badge/Demo-Live-7C3AED?style=flat-square&logo=render&logoColor=white)](https://lifehub-frontend-dtp4.onrender.com/pages/login.html) |
 
 Designed and built 10+ fully responsive React components with keyboard accessibility. Architected 15+ REST endpoints backed by PostgreSQL with custom stored procedures. Containerised the entire stack with Docker Compose — zero manual environment setup required.
 
@@ -135,7 +135,7 @@ A markdown-powered blog platform with static site generation, server-side render
 | **Performance** | 96 Accessibility · 96 Best Practices · 91 SEO (Lighthouse) |
 | **Learning** | Self-taught Next.js App Router — shipped in < 2 days |
 | **Live** | [![Netlify](https://img.shields.io/badge/Live-zainasblog.netlify.app-6D28D9?style=flat-square&logo=netlify)](https://zainasblog.netlify.app) |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/Zaina-s-Blog-) |
 
 Demonstrates fast independent learning — from zero Next.js knowledge to a deployed, production-quality SSG/SSR blog with TypeScript and Tailwind in under 48 hours.
 
@@ -156,7 +156,7 @@ A full-stack AI-powered resume analysis platform. Users upload a PDF resume and 
 | **Backend** | Flask REST API · PDF parsing with pypdf · structured LLM prompts |
 | **AI Layer** | Groq API · LLaMA 3.3 70B · ATS score · skill gap · improvement suggestions |
 | **Ownership** | Sole developer — scoped, designed, implemented, and deployed end-to-end |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/ai-resume-reviewer) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/ai-resume-reviewer) [![Demo](https://img.shields.io/badge/Demo-Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://ai-resume-reviewer-kappa.vercel.app/) |
 
 Built the Flask backend to parse PDF content, construct structured prompts, and route requests to the Groq API — returning section-level feedback to the React frontend. Full product lifecycle ownership from first commit to deployment.
 
@@ -177,7 +177,7 @@ An AI-powered web application that detects digitally altered images using a fine
 | **Architecture** | Privacy-first · in-memory image processing · zero persistent storage |
 | **ML Layer** | Fine-tuned MobileNet · binary forgery classification |
 | **Deployment** | Live on Railway |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/image_forgery) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-6D28D9?style=flat-square&logo=github)](https://github.com/Zainaafreen/image_forgery) [![Demo](https://img.shields.io/badge/Demo-Live-7C3AED?style=flat-square&logo=railway&logoColor=white)](https://imageforgery-production-2759.up.railway.app/) |
 
 The engineering strength here is the full Django backend — auth, sessions, upload pipeline, model inference, and results dashboard — built end-to-end with a privacy-first in-memory processing model.
 
@@ -266,19 +266,6 @@ The engineering strength here is the full Django backend — auth, sessions, upl
 
 ---
 
-## 〈 Coding Profiles 〉
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Zainaafreen)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Zainaafreen)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Zainaafreen)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Zainaafreen)
-
-</div>
-
----
-
 ## 〈 Current Focus 〉
 
 ```yaml
@@ -312,9 +299,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-zaina.cahcet%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaina.cahcet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaina_Afreen-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainaafreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaina_Afreen-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaina-afreen-76892a265/)
 [![GitHub](https://img.shields.io/badge/GitHub-Zainaafreen-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zainaafreen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://zainaafreen.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-5B21B6?style=for-the-badge&logo=netlify&logoColor=white)](https://zaina-afreen-portfolio.netlify.app/)
 
 </div>
 
